@@ -1,0 +1,11 @@
+.cancel {
+  width: 114px;
+  height: 47px;
+  border-radius: 10px;
+  border: 0.5px solid rgba(0, 0, 0, 0.5);
+  background: rgba(217, 217, 217, 0);
+  color: #df3737;
+  font-family: Gilroy;
+  font-size: 18px;
+  font-weight: 700;
+}

@@ -1,0 +1,72 @@
+.input-lable {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.star {
+  width: 15px;
+  height: 10px;
+  display: inline-block;
+  position: relative;
+  top: -10px;
+}
+
+.input-container {
+  height: 57px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.form-control {
+  height: 57px;
+  border: none !important;
+  width: 90% !important;
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+}
+
+.logoInput {
+  max-width: 22px;
+  margin: 0 auto;
+}
+
+::-webkit-input-placeholder {
+  color: rgb(178, 182, 190) !important;
+}
+
+.map {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.textarea {
+  height: 250px !important;
+}
+
+.textarea-height {
+  height: 166px;
+  border: none !important;
+  width: 90% !important;
+  background-color: white;
+  border: none;
+  overflow: auto;
+  outline: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  resize: none;
+}
+
+.submitbtn {
+  height: 67px;
+  border-radius: 10px;
+  background: #3a4b86;
+  font-size: 24px;
+  font-weight: 700;
+}
